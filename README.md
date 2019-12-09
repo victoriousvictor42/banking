@@ -1,5 +1,5 @@
-# AUTOLIB
-#### Car hire activity, 12/11/2019
+# FINANICIAL INCLUSION
+#### predicting potential bank owners, 8/12/2019
 #### By **Victor Mwenda**
 ## Description
 This is an EDA trung to come up with predictions of people who are most likely to have or use a bank account 
